@@ -1,4 +1,4 @@
-require 'math'
+
 
 def prime?(int)
   i = 0
